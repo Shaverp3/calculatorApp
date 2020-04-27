@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    margin: 1em;
+}
+
+#inputSection{
+    display: inline-flexbox;
+    flex-direction: row;
+    width: 80vw;
+    justify-content: space-evenly;
+    margin-left: 10em;
+}
+
+#buttonSection{
+    margin-left: 10em;
+}
+
+#resultSection{
+    margin-top: 2em;
+    margin-left: 5em;
+}
+
+#result{
+    width: 09em;
+    background-color: rgb(214, 151, 151);
+}
+
+
+
